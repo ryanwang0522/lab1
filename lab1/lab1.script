@@ -1,0 +1,13 @@
+Script started on 2015年03月10日 (週二) 17時30分57秒
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ s[Kwhoami; pwd
+F74031158
+/home/F74031158
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ git config -l
+user.name=ryanwang0522
+user.email=F74031158@mail.ncku.edu.tw
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ git co[Klone https://github,[K.com/<t[K[Kryanwang0522/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ xat[K[K[Kexit
+
+Script done on 2015年03月10日 (週二) 17時34分22秒
