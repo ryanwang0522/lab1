@@ -1,0 +1,20 @@
+Script started on 2015年03月17日 (週二) 01時56分50秒
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ whoami; pwd
+F74031158
+/home/F74031158
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ git config -l
+user.name=ryanwang0522
+user.email=perfect3366@Gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ryanwang0522/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ git col[K[Klone https://github.com/ryanwang0522/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74031158@2015cpp: ~F74031158@2015cpp:~$ cat running.script[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+
+Script done on 2015年03月17日 (週二) 01時58分33秒
